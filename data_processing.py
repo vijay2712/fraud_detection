@@ -7,3 +7,6 @@ def sum():
     c=a+b
     return c
 
+def multiply():
+    c=a*b
+    return a
