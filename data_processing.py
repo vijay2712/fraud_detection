@@ -10,3 +10,7 @@ def sum():
 def multiply():
     c=a*b
     return a
+
+def division():
+    c= a/b
+    return b
